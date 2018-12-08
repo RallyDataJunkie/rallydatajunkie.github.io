@@ -1,6 +1,6 @@
 # RallyDataJunkie
 
-Home of the *RallyDataJunkie* project, an playful experiment in wrangling WRC rally results and telemetry data to try to ell stories in an automated way around WRC rallies.
+Home of the *RallyDataJunkie* project, a playful experiment in wrangling WRC rally results and telemetry data to try to tell stories, in an automated way, around WRC rallies.
 
 *Disclaimer: this is an unofficial project and not in any way formally associated with WRC.*
 
