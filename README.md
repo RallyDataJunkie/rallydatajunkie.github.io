@@ -21,3 +21,4 @@ Note - reports *may* contain errors...
 
 
 
+For an earlier set of experiments around FormulaOne results data, see [*Wrangling F1 Data With R*](https://leanpub.com/wranglingf1datawithr).
