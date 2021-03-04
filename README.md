@@ -4,7 +4,19 @@ Home of the *RallyDataJunkie* project, a playful experiment in wrangling WRC ral
 
 *Disclaimer: this is an unofficial project and not in any way formally associated with WRC.*
 
-## 2018 WRC Reports
+## unBooks
+
+[__Visualising WRC Rally Stages With `rayshader` and R__](./visualising-rally-stages) [[repo](https://github.com/RallyDataJunkie/visualising-rally-stages)]
+
+[__Visualising WRC Rally Timing and Results Data++](./visualising-wrc-rally-results) [[repo](https://github.com/RallyDataJunkie/visualising-wrc-rally-results)]
+
+
+
+## Legacy sketches
+
+Doodle from the archive...
+
+### 2018 WRC Reports
 
 The reports currently show, in part, the evolution of the project. At some point, I'll reflow all the reports to the latest report version.
 
