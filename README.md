@@ -8,7 +8,7 @@ Home of the *RallyDataJunkie* project, a playful experiment in wrangling WRC ral
 
 [__Visualising WRC Rally Stages With `rayshader` and R__](./visualising-rally-stages) [[repo](https://github.com/RallyDataJunkie/visualising-rally-stages)]
 
-[__Visualising WRC Rally Timing and Results Data++](./visualising-wrc-rally-results) [[repo](https://github.com/RallyDataJunkie/visualising-wrc-rally-results)]
+[__Visualising WRC Rally Timing and Results Data__](./visualising-wrc-rally-results) [[repo](https://github.com/RallyDataJunkie/visualising-wrc-rally-results)]
 
 
 
