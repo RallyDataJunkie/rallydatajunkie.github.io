@@ -5,13 +5,15 @@ Home of the *RallyDataJunkie* project, a playful experiment in wrangling WRC ral
 *Disclaimer: this is an unofficial project and not in any way formally associated with WRC.*
 
 
-## Rally Reviews
+## Rally Reviews, 2021
 
 - [Rally Croatia timing, 2021](https://rallydatajunkie.com/croatia_2021_timing/)
 - [Rally Croatia route, 2021](https://rallydatajunkie.com/croatia_2021_route/)
 - [Rally Portugal timing, 2021](https://rallydatajunkie.com/portugal_2021_timing/)
 - [Rally Portugal route, 2021](https://rallydatajunkie.com/portugal_2021_route/)
 - [Rally Portugal JWRC timing, 2021](https://rallydatajunkie.com/portugal_2021_timing_JWRC/)
+- [Rally Italia Sardegna route](https://rallydatajunkie.com/sardinia_2021_route)
+- [Rally Italia Sardegna timing](https://rallydatajunkie.com/sardinia_2021_timing)
 
 ## unBooks
 
