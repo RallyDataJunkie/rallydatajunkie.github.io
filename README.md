@@ -14,6 +14,7 @@ Home of the *RallyDataJunkie* project, a playful experiment in wrangling WRC ral
 - [Rally Portugal JWRC timing, 2021](https://rallydatajunkie.com/portugal_2021_timing_JWRC/)
 - [Rally Italia Sardegna route, 2021](https://rallydatajunkie.com/sardinia_2021_route)
 - [Rally Italia Sardegna timing, 2021](https://rallydatajunkie.com/sardinia_2021_timing)
+- [Rally Italia Sardegna timing WRC2, 2021](https://rallydatajunkie.com/sardinia_2021_timing_WRC2)
 - [Safari Rally Kenya route, 2021](https://rallydatajunkie.com/safari_2021_route)
 - [Safari Rally Kenya timing, 2021](https://rallydatajunkie.com/safari_2021_timing)
 
