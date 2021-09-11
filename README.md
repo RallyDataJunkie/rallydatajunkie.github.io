@@ -12,13 +12,13 @@ Home of the *RallyDataJunkie* project, a playful experiment in wrangling WRC ral
 - [Rally Portugal timing, 2021](https://rallydatajunkie.com/portugal_2021_timing/)
 - [Rally Portugal route, 2021](https://rallydatajunkie.com/portugal_2021_route/)
 - [Rally Portugal JWRC timing, 2021](https://rallydatajunkie.com/portugal_2021_timing_JWRC/)
-- [Rally Italia Sardegna route](https://rallydatajunkie.com/sardinia_2021_route)
-- [Rally Italia Sardegna timing](https://rallydatajunkie.com/sardinia_2021_timing)
+- [Rally Italia Sardegna route, 2021](https://rallydatajunkie.com/sardinia_2021_route)
+- [Rally Italia Sardegna timing, 2021](https://rallydatajunkie.com/sardinia_2021_timing)
 - [Safari Rally Kenya route, 2021](https://rallydatajunkie.com/safari_2021_route)
-- [Safari Rally Kenya timing](https://rallydatajunkie.com/safari_2021_timing)
+- [Safari Rally Kenya timing, 2021](https://rallydatajunkie.com/safari_2021_timing)
 
 - [Acropolis Rally route, 2021](https://rallydatajunkie.com/acropolis_2021_route)
-- [Acropolis Rally timing](https://rallydatajunkie.com/acropolis_2021_timing)
+- [Acropolis Rally timing, 2021](https://rallydatajunkie.com/acropolis_2021_timing)
 
 
 ## unBooks
