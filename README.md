@@ -28,6 +28,10 @@ Home of the *RallyDataJunkie* project, a playful experiment in wrangling WRC ral
 
 [__Visualising WRC Rally Timing and Results Data__](./visualising-wrc-rally-results) [[repo](https://github.com/RallyDataJunkie/visualising-wrc-rally-results)]
 
+[__Visualising WRC Telemetry Data__](./visualising-wrc-telemetry-data/) [[repo](https://github.com/RallyDataJunkie/visualising-wrc-telemetry-data)]
+
+See also: [__Wrangling F1 Data With R__](https://leanpub.com/wranglingf1datawithr)
+
 ## Sketches
 
 [*Rally event sketches, 2021*](./rally-event-sketches-2021) [[repo](https://github.com/RallyDataJunkie/rally-event-sketches-2021)]
