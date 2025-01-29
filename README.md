@@ -6,7 +6,7 @@ Home of the *RallyDataJunkie* project, a playful experiment in wrangling WRC ral
 
 ## New for 2025
 
-[WRC live timing and results app](https://rallydatajunkie.com/wrc-shinylive/) — Shinylive-pyton app; runs completely in the browser using `pyodide`; takes a couple of minutes to load; pulls data from WRC live timing site.
+[WRC live timing and results app](https://rallydatajunkie.com/wrc-shinylive/) — Shinylive-python app; runs completely in the browser using `pyodide`; takes a couple of minutes to load; pulls data from WRC live timing site.
 
 ## Rally Reviews, 2021
 
